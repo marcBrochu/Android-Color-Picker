@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="maxRGBValue">255</integer>
+    <integer name="maxHueValue">360</integer>
+    <integer name="maxAlphaValue">100</integer>
+    <integer name="progressSeekBars">0</integer>
+</resources>
